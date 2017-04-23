@@ -1,4 +1,0 @@
-have a base class for all objects
-
-use proper matrix calculation
-
